@@ -1,36 +1,17 @@
-# VoIP Traffic Analyzer
+# voip-traffic-analyzer
 
-## Description
-This Python project captures and analyzes VoIP RTP packets on your local network. It prints sequence number, timestamp, and payload type for each RTP packet. 
+## Purpose
+Captures and analyzes VoIP RTP packets to demonstrate traffic analysis and security assessment.
 
 ## Features
-- Sniff RTP packets
-- Extract and display packet information
-- Safe to run on your own network
+- Key features and functionalities of the project
 
-## Requirements
-- Python 3.x
-- Scapy library
+## Installation / Usage
+- How to install and run the project
+- Example usage if applicable
 
-## How to Install
-Install Scapy:
-```
-pip install scapy
-```
-
-## How to Run
-1. Clone the repository:
-```
-git clone https://github.com/TanakaShumba/voip-traffic-analyzer.git
-```
-2. Navigate to the folder:
-```
-cd voip-traffic-analyzer
-```
-3. Run the analyzer:
-```
-python voip_analyzer.py
-```
+## Tech Stack
+- Python, Libraries, Tools used
 
 ## Notes
-- Only run on networks you own or have permission to monitor.
+- Any special notes or warnings
